@@ -5,7 +5,9 @@ Simple script made for overextended/ox
 
 -Features
 
--search trashbins
+-Search trashbins
+
+-Cant search same bin twice
 
 -Uses ox_target
 
@@ -13,5 +15,4 @@ Simple script made for overextended/ox
 
 -Item rarity
 
--Clean look
-... and more
+-Clean look and more
